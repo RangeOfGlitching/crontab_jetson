@@ -3,7 +3,7 @@ crontab -l
 // to check current schedule
 
 export EDITOR=/usr/bin/vim
-// change editor Default is Vim
+// change editor Default to Vim
 
 crontab -e
 // edit cron job
