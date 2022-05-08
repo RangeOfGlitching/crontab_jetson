@@ -7,3 +7,6 @@ export EDITOR=/usr/bin/vim
 
 crontab -e
 // edit cron job
+
+sudo crontab -e
+// edit root cron job
